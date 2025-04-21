@@ -72,7 +72,7 @@ If you use or reference this project, please cite the accompanying paper:
 
 > Havens, J. & Caceres Holgado, L. (2025). *Proposed Methodology for Non-Contact Angular Measurement via Computer Vision – PYAXIOMA-JH*. University of Kansas.
 
-Or use the BibTeX entry (coming soon in a dedicated `CITATION.cff` file).
+Or use the BibTeX entry.
 
 ---
 
