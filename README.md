@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="PYAXIOMA-JH Logo" width="300"/>
+  <img src="./logo_idea_3.png" alt="PYAXIOMA-JH Logo" width="300"/>
 </p>
 
 # 🧭 PYAXIOMA-JH: Non-Contact Angular Measurement via Computer Vision
