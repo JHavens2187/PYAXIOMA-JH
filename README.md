@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="PYAXIOMA-JH Logo" width="300"/>
+</p>
+
 # 🧭 PYAXIOMA-JH: Non-Contact Angular Measurement via Computer Vision
 
 Welcome to **PYAXIOMA-JH** — the *Python Axis of Magnetic Oscillation and Motion Analysis*, developed by Joseph Havens at the University of Kansas. This project offers a lightweight, affordable, and open-source method for real-time angular displacement tracking using computer vision techniques — requiring only a standard webcam, a rotating object, and marker-based segmentation.
