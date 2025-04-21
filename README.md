@@ -47,6 +47,9 @@ PYAXIOMA-JH/
 ![Tracking Example](./figures/positive_tracking.png)  
 *Marker vector, angle overlay, and motion mask visualized during tracking.*
 
+![Output Plot Example](./figures/sample_angles.png)
+*Sample Data of angle vs time showing angular data, raw confidence, and a moving average*
+
 ---
 
 ## 📊 Using the Data
