@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use PYAXIOMA-JH in your work, please cite it using the following metadata."
+title: "PYAXIOMA-JH: A Method for Non-Contact Angular Measurement via Computer Vision"
+authors:
+  - family-names: Havens
+    given-names: Joseph
+    orcid: "https://orcid.org/0009-0006-9141-4381"
+  - family-names: Caceres Holgado
+    given-names: Lucciana M.
+    orcid: "https://orcid.org/0009-0007-7778-4279"
+date-released: 2025-04-19
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567"  # Replace with actual DOI if you get one via Zenodo
+license: MIT
+repository-code: "https://github.com/yourusername/PYAXIOMA-JH"
+keywords:
+  - computer vision
+  - angular motion
+  - OpenCV
+  - scientific software
+  - marker tracking
